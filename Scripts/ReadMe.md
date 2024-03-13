@@ -1,1 +1,1 @@
-It contains all the scripts used for the theis. 
+It contains all the scripts used for the thesis. 
